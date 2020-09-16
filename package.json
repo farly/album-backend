@@ -20,6 +20,7 @@
     "uuid": "^8.3.0"
   },
   "devDependencies": {
+    "form-data": "^3.0.0",
     "node-fetch": "^2.6.1"
   }
 }

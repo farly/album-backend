@@ -7,7 +7,7 @@ const Document = require('./../../../lib/models/document');
 
 
 describe('/lib/routes/list.js', function() {
-    let server, context;
+    let server;
 
     beforeAll(() => {
         const app = Express();
